@@ -1,28 +1,53 @@
 Medicine Management in MEAN STACK
 
 create a folder Medicine Mangement
-add README.md
-git git add README.md
-git commit -m "Readme file "
-git branch -M main
-git remote add origin <your repo>
-git push -u origin main
 
-npm init
-npm i -g @angular/cli
+ `add README.md`
 
-ng new app
-cd app
+ `git add README.md`
+
+ `git commit -m "Readme file "`
+
+ `git branch -M main`
+
+ `git remote add origin <your repo>`
+  
+ `git push -u origin main`
+
+ `npm init`
+  
+ `npm i -g @angular/cli`
+
+ `ng new app`
+  
+ `cd app`
+  
 //header
-ng g c header
- ng g c header-taskbar
 
-ng g c sideitem
-ng g c menuitem
+ `ng g c header`
+  
+ `ng g c header-taskbar`
+
+ `ng g c sideitem`
+ `ng g c menuitem`
 
 //add routes
 
+ `ng g module app-routing`
+  
+ `git add src/app/app-routing/`
+ 
+ //adding feature branch
+ 
+  `git branch -M feature/headercomponent`
+  
+  `git remote add feature/headercomponen <repo url>`
 
+  `git push  origin feature/headercomponent`
+
+  `git add <files>`
+
+  `git push origin head`
 
 
 # App
