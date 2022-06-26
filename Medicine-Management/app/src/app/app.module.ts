@@ -4,12 +4,16 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
 import { HeaderTaskbarComponent } from './header/header-taskbar/header-taskbar.component';
 import { MenuitemComponent } from './sideitem/menuitem/menuitem.component';
+import { HeaderComponent } from './header/header.component';
+import { SideitemComponent } from './sideitem/sideitem.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderTaskbarComponent,
-    MenuitemComponent
+    MenuitemComponent,
+    HeaderComponent,
+    SideitemComponent
   ],
   imports: [
     BrowserModule
