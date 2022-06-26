@@ -6,6 +6,7 @@ import { HeaderTaskbarComponent } from './header/header-taskbar/header-taskbar.c
 import { MenuitemComponent } from './sideitem/menuitem/menuitem.component';
 import { HeaderComponent } from './header/header.component';
 import { SideitemComponent } from './sideitem/sideitem.component';
+import { HeaderDetailsComponent } from './header/header-details/header-details.component';
 
 @NgModule({
   declarations: [
@@ -13,7 +14,8 @@ import { SideitemComponent } from './sideitem/sideitem.component';
     HeaderTaskbarComponent,
     MenuitemComponent,
     HeaderComponent,
-    SideitemComponent
+    SideitemComponent,
+    HeaderDetailsComponent
   ],
   imports: [
     BrowserModule
