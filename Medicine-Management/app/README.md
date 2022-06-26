@@ -1,5 +1,7 @@
 Medicine Management in MEAN STACK
 
+Header component Feature
+![alt text](https://github.com/shadabqamar/meanstackplayground/blob/feature/headercomponent/Medicine-Management/app/src/assets/images/header1.PNG)
 create a folder Medicine Mangement
 
  `add README.md`
@@ -26,10 +28,10 @@ create a folder Medicine Mangement
 
  `ng g c header`
   
- `ng g c header-taskbar`
+ `ng g c header/header-taskbar`
 
  `ng g c sideitem`
- `ng g c menuitem`
+ `ng g c  sideitem/menuitem`
 
 //add routes
 
