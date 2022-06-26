@@ -14,9 +14,11 @@ npm i -g @angular/cli
 ng new app
 cd app
 //header
-ng g c header/header-taskbar
+ng g c header
+ ng g c header-taskbar
 
-ng g c sideitem/menuitem
+ng g c sideitem
+ng g c menuitem
 
 //add routes
 
