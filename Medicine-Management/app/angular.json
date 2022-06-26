@@ -23,8 +23,8 @@
               "src/assets"
             ],
             "styles": [
-              "./node_modules/font-awesome/css/",
-              "./node_modules/bulma/css/bluma.css",
+              "node_modules/font-awesome/css/font-awesome.css",
+              "node_modules/bulma/css/bulma.css",
               "src/styles.css"
             ],
             "scripts": []

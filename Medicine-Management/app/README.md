@@ -56,6 +56,16 @@ create a folder Medicine Mangement
 
   `git push origin head`
 
+   ` npm i fontawesome  `
+    ` npm i bulma  `
+
+
+
+  `"styles": [ "../node_modules/font-awesome/css/font-awesome.css",`
+               ` "../node_modules/bulma/css/bluma.css",`
+              `  "src/styles.css"`
+             ` ],`
+
 
 # App
 

@@ -7,6 +7,8 @@ import { MenuitemComponent } from './sideitem/menuitem/menuitem.component';
 import { HeaderComponent } from './header/header.component';
 import { SideitemComponent } from './sideitem/sideitem.component';
 import { HeaderDetailsComponent } from './header/header-details/header-details.component';
+import { WindowComponent } from './window/window.component';
+import { StatComponent } from './window/stat/stat.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +17,9 @@ import { HeaderDetailsComponent } from './header/header-details/header-details.c
     MenuitemComponent,
     HeaderComponent,
     SideitemComponent,
-    HeaderDetailsComponent
+    HeaderDetailsComponent,
+    WindowComponent,
+    StatComponent
   ],
   imports: [
     BrowserModule
