@@ -31,8 +31,11 @@ create a folder Medicine Mangement
  `ng g c header`
   
  `ng g c header/header-taskbar`
+
  `ng g c header/header-details`
+
  `ng g c sideitem`
+ 
  `ng g c  sideitem/menuitem`
 
 //add routes
