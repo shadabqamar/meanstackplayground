@@ -1,5 +1,7 @@
 Medicine Management in MEAN STACK
 
+Header component Feature
+![alt text](https://github.com/shadabqamar/meanstackplayground/blob/feature/headercomponent/Medicine-Management/app/src/assets/images/header.PNG)
 create a folder Medicine Mangement
 
  `add README.md`
