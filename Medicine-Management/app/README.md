@@ -2,7 +2,7 @@ Medicine Management in MEAN STACK
 
 Header component Feature
 
-![alt text](https://github.com/shadabqamar/meanstackplayground/blob/feature/headercomponent/Medicine-Management/app/src/assets/images/header.PNG)
+![alt text](https://github.com/shadabqamar/meanstackplayground/blob/feature/statistic/Medicine-Management/app/src/assets/images/sideitem.JPG)
 
 create a folder Medicine Mangement
 
